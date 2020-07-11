@@ -34,7 +34,7 @@
             "Key": "0107a70e-248f-4b95-9caa-b7955a767b4b",
             "Value": {
                 "id": "0a09844c-e558-4fef-9baa-3e8ea9e6dcb8",
-                "resourcePath": "scripts\\SetAnimal\\SetAnimal.yy",
+                "resourcePath": "scripts\\AnimalSet\\AnimalSet.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "c869a2f0-a679-44df-a418-4329ad00833c",
+            "Value": {
+                "id": "9de0cf5a-23ea-4ec4-897e-f3c4b6fd2952",
+                "resourcePath": "sprites\\sprite2\\sprite2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "fd484149-f458-4bc3-8977-e8ffaac7808c",
@@ -330,7 +338,7 @@
             "Key": "f986619e-ba78-40a7-a5fa-aa8b1ddc3e8e",
             "Value": {
                 "id": "6a544ce4-c163-4cc8-99e5-5172078b57e8",
-                "resourcePath": "scripts\\SetTile\\SetTile.yy",
+                "resourcePath": "scripts\\TileSet\\TileSet.yy",
                 "resourceType": "GMScript"
             }
         },

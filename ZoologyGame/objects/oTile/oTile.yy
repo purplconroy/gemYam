@@ -43,13 +43,13 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "7433d994-3446-412b-b1ed-ac4e73fafb92",
+            "id": "7ce14f2b-bf36-494b-adaf-f0363385f28c",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
             "multiselect": false,
             "rangeEnabled": false,
-            "rangeMax": 10,
+            "rangeMax": 1000,
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
@@ -57,51 +57,46 @@
             "varType": 1
         },
         {
-            "id": "7f6efbae-1dc7-4585-be4f-973a1fed8351",
+            "id": "978c5afb-f312-42ef-ab29-9febecc7a1c2",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
-            "listItems": null,
+            "listItems": [
+                "\"null\"",
+                "\"cold dry\"",
+                "\"med dry\"",
+                "\"Item 3\"",
+                "\"Item 4\"",
+                "\"Item 5\"",
+                "\"Item 6\"",
+                "\"Item 7\"",
+                "\"Item 8\"",
+                "\"Item 9\""
+            ],
             "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
+            "rangeEnabled": true,
+            "rangeMax": 2,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "-1",
+            "value": "0",
             "varName": "temp",
             "varType": 1
         },
         {
-            "id": "978c5afb-f312-42ef-ab29-9febecc7a1c2",
+            "id": "517a027f-cac2-40a6-b907-278d27669a74",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
             "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
+            "rangeEnabled": true,
+            "rangeMax": 2,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "-1",
+            "value": "0",
             "varName": "moist",
             "varType": 1
-        },
-        {
-            "id": "5db2a49d-256b-4f85-8772-1018c0400da9",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": [
-                
-            ],
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "\"Item 0\"",
-            "varName": "animals",
-            "varType": 6
         }
     ],
     "solid": false,
-    "spriteId": "21c47bb6-b46a-45d8-bdba-580acdeabc90",
+    "spriteId": "c869a2f0-a679-44df-a418-4329ad00833c",
     "visible": true
 }
