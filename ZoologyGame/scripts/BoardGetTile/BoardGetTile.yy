@@ -1,8 +1,8 @@
 {
-    "id": "54481f5b-6eea-4403-90da-e82ee26d75aa",
+    "id": "5d97017d-72d1-40ca-9c05-049c647bb843",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "BoardAppendQ",
+    "name": "BoardGetTile",
     "IsCompatibility": false,
     "IsDnD": false
 }

@@ -1,8 +1,8 @@
 {
-    "id": "7bb2b8a8-f2ac-4283-aea8-1a4121c4072d",
+    "id": "dd9aaa09-812b-4ee5-812f-d8958bca6d90",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "BoardAppendR",
+    "name": "TileCapacitySet",
     "IsCompatibility": false,
     "IsDnD": false
 }

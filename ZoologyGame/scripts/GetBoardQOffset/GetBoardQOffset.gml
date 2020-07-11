@@ -1,1 +1,0 @@
-return oBoard.qOffset;

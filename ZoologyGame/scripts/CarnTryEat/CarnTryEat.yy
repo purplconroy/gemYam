@@ -1,8 +1,8 @@
 {
-    "id": "f5b291e7-72e9-4ae8-94f4-505566216c48",
+    "id": "56e66d40-5e9c-4831-911a-1a50efb54067",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "GetBoardROffset",
+    "name": "CarnTryEat",
     "IsCompatibility": false,
     "IsDnD": false
 }

@@ -1,8 +1,8 @@
 {
-    "id": "4c8c0ed7-c7d1-47ca-b5b1-821c3ae91433",
+    "id": "02f92646-2f66-42ef-abcf-c5fd7f57ec8d",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "GetBoardQOffset",
+    "name": "BoardGetAdj",
     "IsCompatibility": false,
     "IsDnD": false
 }

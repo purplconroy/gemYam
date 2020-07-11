@@ -22,21 +22,21 @@ if (ItemX > ds_grid_width(oBoard.hexgrid) - 1)
 
 else if (ItemY > ds_grid_width(oBoard.hexgrid) - 1)
 {
-	BoardAppendR();
+	prBoardAppendR();
 	ds_grid_set(oBoard.hexgrid, ItemX, ItemY,  argument2);
 	return 1;
 }
 
 else if (ItemX < 0)
 {
-	BoardShiftQ();
+	prBoardShiftQ();
 	ds_grid_set(oBoard.hexgrid, ItemX, ItemY,  argument2);
 	return 1;
 }
 
 else if (ItemY < 0)
 {
-	BoardShiftR();
+	prBoardShiftR();
 	ds_grid_set(oBoard.hexgrid, ItemX, ItemY,  argument2);
 	return 1;
 }

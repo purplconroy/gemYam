@@ -1,28 +1,18 @@
 {
-    "id": "dc2d1b24-a3dd-4dda-b79f-d20e8bbe14d3",
+    "id": "545d27ff-5243-46f5-89e6-0bd412b5157c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oTile",
+    "name": "oAnimal",
     "eventList": [
         {
-            "id": "fc3ce195-3522-4120-91c0-aaba48b73470",
+            "id": "559dd095-0922-4f6f-b660-2f27a32d8566",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "dc2d1b24-a3dd-4dda-b79f-d20e8bbe14d3"
-        },
-        {
-            "id": "a96e9306-66ab-4ad7-84b0-bc1cc70da4bd",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 6,
-            "m_owner": "dc2d1b24-a3dd-4dda-b79f-d20e8bbe14d3"
+            "m_owner": "545d27ff-5243-46f5-89e6-0bd412b5157c"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,74 +33,49 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "7ce14f2b-bf36-494b-adaf-f0363385f28c",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 1000,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "capacity",
-            "varType": 1
-        },
-        {
-            "id": "978c5afb-f312-42ef-ab29-9febecc7a1c2",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": [
-                "\"null\"",
-                "\"cold dry\"",
-                "\"med dry\"",
-                "\"Item 3\"",
-                "\"Item 4\"",
-                "\"Item 5\"",
-                "\"Item 6\"",
-                "\"Item 7\"",
-                "\"Item 8\"",
-                "\"Item 9\""
-            ],
-            "multiselect": false,
-            "rangeEnabled": true,
-            "rangeMax": 2,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "temp",
-            "varType": 1
-        },
-        {
-            "id": "517a027f-cac2-40a6-b907-278d27669a74",
+            "id": "84622211-c421-4025-967a-b7fbd68a9de4",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
             "multiselect": false,
             "rangeEnabled": true,
-            "rangeMax": 2,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "moist",
-            "varType": 1
-        },
-        {
-            "id": "fd0a2deb-d3b3-4f71-aaac-2bc6fef71d8f",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "ds_list_create()",
-            "varName": "animals",
-            "varType": 4
+            "value": "0",
+            "varName": "str",
+            "varType": 1
+        },
+        {
+            "id": "77ba4786-3490-4fec-b60e-9ef320d6ed10",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": true,
+            "rangeMax": 2,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "temp_pref",
+            "varType": 1
+        },
+        {
+            "id": "683b9de8-294a-417c-81b6-571a454d2434",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": true,
+            "rangeMax": 2,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "moist_pref",
+            "varType": 1
         }
     ],
     "solid": false,
-    "spriteId": "c869a2f0-a679-44df-a418-4329ad00833c",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
