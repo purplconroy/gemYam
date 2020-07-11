@@ -1,8 +1,8 @@
 {
-    "id": "ff9482ea-6372-4b6d-a906-ce4a17f1af82",
+    "id": "54481f5b-6eea-4403-90da-e82ee26d75aa",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "BoardShiftR",
+    "name": "prBoardAppendQ",
     "IsCompatibility": false,
     "IsDnD": false
 }
