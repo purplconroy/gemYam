@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "5d97017d-72d1-40ca-9c05-049c647bb843",
+            "Value": {
+                "id": "343d0c10-7261-4325-81f1-7950c86a9966",
+                "resourcePath": "scripts\\BoardGetTile\\BoardGetTile.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "72bd15cb-c89e-414f-8f61-96e67e2a4a07",
             "Value": {
                 "id": "ba3b4070-0ec1-4c49-b9b8-8d71802269f7",
@@ -352,7 +360,8 @@
         "f986619e-ba78-40a7-a5fa-aa8b1ddc3e8e",
         "0107a70e-248f-4b95-9caa-b7955a767b4b",
         "02f92646-2f66-42ef-abcf-c5fd7f57ec8d",
-        "e63d0499-950c-4c06-9cf8-5519f4e30dbb"
+        "e63d0499-950c-4c06-9cf8-5519f4e30dbb",
+        "5d97017d-72d1-40ca-9c05-049c647bb843"
     ],
     "tutorial": ""
 }

@@ -13,6 +13,6 @@ if(is_undefined(ds_grid_get(oBoard.hexgrid,ItemX,ItemY)))
 }
 else
 {
-	var array = [ItemX, ItemY];
-	return array;
+	var value = ds_grid_get(oBoard.hexgrid,ItemX,ItemY);
+	return value;
 }

@@ -1,5 +1,5 @@
 /// BoardSet(itemQ, itemR)
-/// @description BoardSet(itemQ, itemR, value)
+/// @description BoardSet(itemQ, itemR)
 /// @param itemQ
 /// @param itemR
 
