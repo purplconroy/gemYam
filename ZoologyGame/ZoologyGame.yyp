@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "02f92646-2f66-42ef-abcf-c5fd7f57ec8d",
+            "Value": {
+                "id": "8d8b70b2-4485-4c50-aa39-a3d81565e43d",
+                "resourcePath": "scripts\\BoardGetAdj\\BoardGetAdj.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "062a980d-21a2-4659-9086-e8ab059ed937",
             "Value": {
                 "id": "599a5662-b0b2-4d49-a2f9-817e77d7ae56",
@@ -106,7 +114,7 @@
             "Key": "2d88845f-622d-4382-8f2a-65b83dc80330",
             "Value": {
                 "id": "b87e0145-1d46-4f6c-929a-5ca982451cdd",
-                "resourcePath": "scripts\\BoardShiftQ\\BoardShiftQ.yy",
+                "resourcePath": "scripts\\prBoardShiftQ\\prBoardShiftQ.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -119,18 +127,10 @@
             }
         },
         {
-            "Key": "4c8c0ed7-c7d1-47ca-b5b1-821c3ae91433",
-            "Value": {
-                "id": "759b979a-9dba-4593-a32c-cd3627dd350c",
-                "resourcePath": "scripts\\GetBoardQOffset\\GetBoardQOffset.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "54481f5b-6eea-4403-90da-e82ee26d75aa",
             "Value": {
                 "id": "d76d21c7-74ed-42e3-a1b3-631d1f9bed08",
-                "resourcePath": "scripts\\BoardAppendQ\\BoardAppendQ.yy",
+                "resourcePath": "scripts\\prBoardAppendQ\\prBoardAppendQ.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -178,7 +178,7 @@
             "Key": "7bb2b8a8-f2ac-4283-aea8-1a4121c4072d",
             "Value": {
                 "id": "1700613a-5505-415a-b5f0-86844a8ef902",
-                "resourcePath": "scripts\\BoardAppendR\\BoardAppendR.yy",
+                "resourcePath": "scripts\\prBoardAppendR\\prBoardAppendR.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "e63d0499-950c-4c06-9cf8-5519f4e30dbb",
+            "Value": {
+                "id": "b08539bd-70e8-43c1-b5b2-77ce428f01c1",
+                "resourcePath": "scripts\\prBoardGetCoord\\prBoardGetCoord.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e7ccd589-d783-4909-836b-abeb45148088",
             "Value": {
                 "id": "5b64282b-261c-48af-ad25-0c41bad4b3a8",
@@ -316,14 +324,6 @@
                 "id": "ce1cede9-ec5a-4797-b183-705eedcfce6e",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
-            }
-        },
-        {
-            "Key": "f5b291e7-72e9-4ae8-94f4-505566216c48",
-            "Value": {
-                "id": "c9c2e35f-67e9-4fa4-8f61-6e4289f2649b",
-                "resourcePath": "scripts\\GetBoardROffset\\GetBoardROffset.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -346,21 +346,21 @@
             "Key": "ff9482ea-6372-4b6d-a906-ce4a17f1af82",
             "Value": {
                 "id": "6068dd93-00b3-47e4-80a7-cbd196f3a8d8",
-                "resourcePath": "scripts\\BoardShiftR\\BoardShiftR.yy",
+                "resourcePath": "scripts\\prBoardShiftR\\prBoardShiftR.yy",
                 "resourceType": "GMScript"
             }
         }
     ],
     "script_order": [
         "8ff9b213-77b8-4c9f-b531-68ea92ec6cef",
-        "4c8c0ed7-c7d1-47ca-b5b1-821c3ae91433",
-        "f5b291e7-72e9-4ae8-94f4-505566216c48",
         "54481f5b-6eea-4403-90da-e82ee26d75aa",
         "7bb2b8a8-f2ac-4283-aea8-1a4121c4072d",
         "2d88845f-622d-4382-8f2a-65b83dc80330",
         "ff9482ea-6372-4b6d-a906-ce4a17f1af82",
         "f986619e-ba78-40a7-a5fa-aa8b1ddc3e8e",
-        "0107a70e-248f-4b95-9caa-b7955a767b4b"
+        "0107a70e-248f-4b95-9caa-b7955a767b4b",
+        "02f92646-2f66-42ef-abcf-c5fd7f57ec8d",
+        "e63d0499-950c-4c06-9cf8-5519f4e30dbb"
     ],
     "tutorial": ""
 }
