@@ -1,13 +1,10 @@
-/// SetTile(oTile, cap, moi, tem)
-/// @description SetTile(oTile, cap, moi, tem)
-///	@param oTile
-	// tile id I think?
-/// @param cap
-	//
-/// @param moi
-	//
-/// @param tem
-	//
-tyle.capacity = cap;
-tyle.moist = moi;
-tyle.temp = tem;
+/// SetTile(tyle, capacity, temp, moist)
+/// @description SetTile(tyle, cap, temp, moist)
+///	@param tyle
+/// @param capacity
+/// @param temp
+/// @param moist
+argument0.argument0 = capacity;
+argument0.argument1 = temp;
+argument0.argument2 = moist;
+//object_set_sprite(tyle,) make nu tyle sprite match
