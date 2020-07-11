@@ -105,8 +105,8 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "array[0]",
-            "varName": "variable_name",
+            "value": "ds_list_create()",
+            "varName": "animals",
             "varType": 4
         }
     ],
