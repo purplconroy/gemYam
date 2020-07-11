@@ -34,7 +34,7 @@
             "Key": "0107a70e-248f-4b95-9caa-b7955a767b4b",
             "Value": {
                 "id": "0a09844c-e558-4fef-9baa-3e8ea9e6dcb8",
-                "resourcePath": "scripts\\script8\\script8.yy",
+                "resourcePath": "scripts\\SetAnimal\\SetAnimal.yy",
                 "resourceType": "GMScript"
             }
         },
