@@ -34,7 +34,7 @@
             "Key": "0107a70e-248f-4b95-9caa-b7955a767b4b",
             "Value": {
                 "id": "0a09844c-e558-4fef-9baa-3e8ea9e6dcb8",
-                "resourcePath": "scripts\\AnimalSet\\AnimalSet.yy",
+                "resourcePath": "scripts\\AnimalStrSet\\AnimalStrSet.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -76,6 +76,14 @@
                 "id": "52dde76c-1f83-427c-91d5-e28f76dbd8df",
                 "resourcePath": "views\\0a1356f2-80f3-41d4-8fb8-921f6f609423.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1a592838-1010-4d7a-be70-babbbc3c144e",
+            "Value": {
+                "id": "e37da9a2-00f5-4def-baf0-9639c493dbc3",
+                "resourcePath": "scripts\\AnimalTempSet\\AnimalTempSet.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -287,6 +295,14 @@
             }
         },
         {
+            "Key": "dd9aaa09-812b-4ee5-812f-d8958bca6d90",
+            "Value": {
+                "id": "9834993c-0811-4216-b8b5-26a65bde43df",
+                "resourcePath": "scripts\\TileCapacitySet\\TileCapacitySet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e047e5f4-94a4-412e-a51f-4582e6b088af",
             "Value": {
                 "id": "4ac67b15-e8fd-4f90-83c5-8c642f0584a7",
@@ -327,10 +343,18 @@
             }
         },
         {
+            "Key": "f962e02b-ade8-4c8a-bfbd-f35e8e6865a2",
+            "Value": {
+                "id": "513b617d-5089-4299-85a1-26e3e8050086",
+                "resourcePath": "scripts\\TileMoistSet\\TileMoistSet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f986619e-ba78-40a7-a5fa-aa8b1ddc3e8e",
             "Value": {
                 "id": "6a544ce4-c163-4cc8-99e5-5172078b57e8",
-                "resourcePath": "scripts\\TileSet\\TileSet.yy",
+                "resourcePath": "scripts\\TileTempSet\\TileTempSet.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -340,6 +364,14 @@
                 "id": "c4196ba0-f7d3-40a4-af06-ea9f3866e5f9",
                 "resourcePath": "views\\fa95e63b-68f7-4599-96bd-6cabafef4ce1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fe952622-a241-4d36-9bb3-a05d92dff632",
+            "Value": {
+                "id": "d6ab4402-99a6-4c76-bc1b-60929e2dc0ee",
+                "resourcePath": "scripts\\AnimalMoistSet\\AnimalMoistSet.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -357,8 +389,12 @@
         "7bb2b8a8-f2ac-4283-aea8-1a4121c4072d",
         "2d88845f-622d-4382-8f2a-65b83dc80330",
         "ff9482ea-6372-4b6d-a906-ce4a17f1af82",
+        "dd9aaa09-812b-4ee5-812f-d8958bca6d90",
         "f986619e-ba78-40a7-a5fa-aa8b1ddc3e8e",
+        "f962e02b-ade8-4c8a-bfbd-f35e8e6865a2",
         "0107a70e-248f-4b95-9caa-b7955a767b4b",
+        "1a592838-1010-4d7a-be70-babbbc3c144e",
+        "fe952622-a241-4d36-9bb3-a05d92dff632",
         "02f92646-2f66-42ef-abcf-c5fd7f57ec8d",
         "e63d0499-950c-4c06-9cf8-5519f4e30dbb"
     ],

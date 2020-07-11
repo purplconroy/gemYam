@@ -94,6 +94,20 @@
             "value": "0",
             "varName": "moist",
             "varType": 1
+        },
+        {
+            "id": "fd0a2deb-d3b3-4f71-aaac-2bc6fef71d8f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "array[0]",
+            "varName": "variable_name",
+            "varType": 4
         }
     ],
     "solid": false,
