@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "a496ef64-af98-41a6-9d66-9c689a03a783",
+            "Value": {
+                "id": "b5591372-a445-467b-a0c8-284d06412009",
+                "resourcePath": "scripts\\GridToHex\\GridToHex.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a5f68abc-e564-4b0a-bcb4-30a6af9f2d49",
             "Value": {
                 "id": "35cf91b6-125e-475f-83c9-17586bfd484a",
@@ -311,19 +319,11 @@
             }
         },
         {
-            "Key": "c66c99ad-21f0-4a25-93a7-d0252f782e50",
+            "Key": "c58b8c9e-e992-4f32-9034-a0e359c9d941",
             "Value": {
-                "id": "088d2711-d9b6-4e80-89a8-ae305a787def",
-                "resourcePath": "views\\c66c99ad-21f0-4a25-93a7-d0252f782e50.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "c869a2f0-a679-44df-a418-4329ad00833c",
-            "Value": {
-                "id": "9de0cf5a-23ea-4ec4-897e-f3c4b6fd2952",
-                "resourcePath": "sprites\\sprite2\\sprite2.yy",
-                "resourceType": "GMSprite"
+                "id": "4281fb48-73cd-48d6-bcfc-287c37349a06",
+                "resourcePath": "scripts\\HexToGrid\\HexToGrid.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -437,18 +437,8 @@
         "7bb2b8a8-f2ac-4283-aea8-1a4121c4072d",
         "2d88845f-622d-4382-8f2a-65b83dc80330",
         "ff9482ea-6372-4b6d-a906-ce4a17f1af82",
-        "02f92646-2f66-42ef-abcf-c5fd7f57ec8d",
-        "e63d0499-950c-4c06-9cf8-5519f4e30dbb",
-        "5d97017d-72d1-40ca-9c05-049c647bb843",
-        "dd9aaa09-812b-4ee5-812f-d8958bca6d90",
-        "f962e02b-ade8-4c8a-bfbd-f35e8e6865a2",
-        "f986619e-ba78-40a7-a5fa-aa8b1ddc3e8e",
-        "0107a70e-248f-4b95-9caa-b7955a767b4b",
-        "1a592838-1010-4d7a-be70-babbbc3c144e",
-        "fe952622-a241-4d36-9bb3-a05d92dff632",
-        "56e66d40-5e9c-4831-911a-1a50efb54067",
-        "29680a87-c4c7-4c96-99b4-51569f5470f9",
-        "7efc5d25-9770-4c6c-9d9a-5967244942cc"
+        "c58b8c9e-e992-4f32-9034-a0e359c9d941",
+        "a496ef64-af98-41a6-9d66-9c689a03a783"
     ],
     "tutorial": ""
 }
