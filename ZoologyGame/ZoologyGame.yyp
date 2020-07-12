@@ -143,14 +143,6 @@
             }
         },
         {
-            "Key": "29680a87-c4c7-4c96-99b4-51569f5470f9",
-            "Value": {
-                "id": "62c3cdcc-5dca-4918-895e-b866193bf1d2",
-                "resourcePath": "scripts\\HerbTryGrow\\HerbTryGrow.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "29c3185c-e80b-4680-bd51-e322dd7b12bc",
             "Value": {
                 "id": "cdc39e87-26f1-4ed2-9409-891f02d0adb3",
@@ -196,14 +188,6 @@
                 "id": "52827c71-8b2f-4dce-9874-e105921ba3f3",
                 "resourcePath": "objects\\oAnimal\\oAnimal.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "56e66d40-5e9c-4831-911a-1a50efb54067",
-            "Value": {
-                "id": "ec89ac19-cdc3-4550-b657-37f118387dc6",
-                "resourcePath": "scripts\\CarnTryEat\\CarnTryEat.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -529,9 +513,7 @@
         "f986619e-ba78-40a7-a5fa-aa8b1ddc3e8e",
         "a3b310f7-06b1-4509-8a0f-f90946ebbc6b",
         "1224b746-ce5e-44ee-a37a-2b5807de4fe7",
-        "29680a87-c4c7-4c96-99b4-51569f5470f9",
         "0107a70e-248f-4b95-9caa-b7955a767b4b",
-        "56e66d40-5e9c-4831-911a-1a50efb54067",
         "1a592838-1010-4d7a-be70-babbbc3c144e",
         "7efc5d25-9770-4c6c-9d9a-5967244942cc",
         "fe952622-a241-4d36-9bb3-a05d92dff632",
