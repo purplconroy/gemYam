@@ -1,16 +1,17 @@
-///TickTile(tile, q , r)
+///TickTile(tile, q , r, migraqueue)
 ///@param tile
 ///@param q
 ///@param r
+///@param migraqueue
 
 var herbtick = ds_list_size(argument0.herbivores);
 var carntick = ds_list_size(argument0.carnivores);
 for (var i=0; i< carntick; i++){
 	argument0.carnivores[| i].fullness--; //lever for carnivore balancing
 	var strongk = prFindStrongest(argument0.carnivores[| i],argument0);
-	if(strongk[1] == -1 && strongk){
-		 prMigrate(i, argument0, true, argument1, argument2);
-		 i--
+	if(strongk[1] == -1 && argument0.carnivores[| i].fullness > 0){
+		ds_queue_enqueue(argument3, [i, argument0, true, argument1, argument2]);
+//		 prMigrate(i, argument0, true, argument1, argument2);
 	}else if(argument0.carnivores[| i].fullness <= 0){
 		ds_list_delete(i, argument0.carnivores[| i]);
 		i--;
@@ -24,7 +25,7 @@ for (var i=0; i< carntick; i++){
 			AnimalTempSet(newcarn, argument0.carnivores[| i].temp_pref);
 			AnimalMoistSet(newcarn, argument0.carnivores[| i].moist_pref);
 			ds_list_add(argument0.carnivores, newcarn);
-	}
+		}
 	}else{
 		argument0.carnivores[| i].fullness += 2;
 		ds_list_delete(argument0.carnivores, strongk[1]);
@@ -50,9 +51,8 @@ for (var i=0; i< herbtick; i++){
 		ds_list_add(argument0.herbivores, newherb);
 		argument0.herbivores[| i].growth = 0;
 	} else if (ds_list_size(argument0.herbivores) == argument0.capacity){
-		prMigrate(i, argument0, false, argument1, argument2);
-		herbtick--;
-		i--;
+		ds_queue_enqueue(argument3, [i, argument0,false, argument1, argument2]);
+//		prMigrate(i, argument0, false, argument1, argument2);
 	}
 }
 

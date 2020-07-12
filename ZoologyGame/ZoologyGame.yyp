@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "7835421a-08c7-4a6f-8b07-b191bd9eec3a",
+            "Value": {
+                "id": "9fe06e2d-74e9-4bf6-85c3-254e7c984a1c",
+                "resourcePath": "scripts\\BoardTick\\BoardTick.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "7a55b4d6-a9c6-415f-b385-e373cd9ec444",
             "Value": {
                 "id": "e9e9ce34-934b-47f1-8fa6-c86357d06d94",
@@ -496,6 +504,7 @@
         "02f92646-2f66-42ef-abcf-c5fd7f57ec8d",
         "5d97017d-72d1-40ca-9c05-049c647bb843",
         "e63d0499-950c-4c06-9cf8-5519f4e30dbb",
+        "7835421a-08c7-4a6f-8b07-b191bd9eec3a",
         "c58b8c9e-e992-4f32-9034-a0e359c9d941",
         "a496ef64-af98-41a6-9d66-9c689a03a783",
         "dd9aaa09-812b-4ee5-812f-d8958bca6d90",
