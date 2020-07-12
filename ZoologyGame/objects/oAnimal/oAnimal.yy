@@ -38,7 +38,7 @@
             "mvc": "1.0",
             "listItems": null,
             "multiselect": false,
-            "rangeEnabled": true,
+            "rangeEnabled": false,
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
@@ -77,5 +77,5 @@
     ],
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
-    "visible": false
+    "visible": true
 }
