@@ -11,9 +11,7 @@
         "ff9482ea-6372-4b6d-a906-ce4a17f1af82",
         "02f92646-2f66-42ef-abcf-c5fd7f57ec8d",
         "5d97017d-72d1-40ca-9c05-049c647bb843",
-        "e63d0499-950c-4c06-9cf8-5519f4e30dbb",
-        "7835421a-08c7-4a6f-8b07-b191bd9eec3a",
-        "4af2ae5a-ebf9-4ced-8588-a4bd420cd124"
+        "e63d0499-950c-4c06-9cf8-5519f4e30dbb"
     ],
     "filterType": "GMScript",
     "folderName": "BoardScripts",
