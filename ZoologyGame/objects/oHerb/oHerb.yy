@@ -36,6 +36,20 @@
             "value": "0",
             "varName": "growth_timer",
             "varType": 1
+        },
+        {
+            "id": "9e015acc-2fa2-4eda-be59-853e675ded40",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "growth",
+            "varType": 1
         }
     ],
     "solid": false,

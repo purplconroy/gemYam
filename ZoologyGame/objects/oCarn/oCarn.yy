@@ -34,7 +34,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "fullness_cap",
+            "varName": "maxfullness",
             "varType": 1
         },
         {
@@ -48,7 +48,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "current_fullness",
+            "varName": "fullness",
             "varType": 1
         }
     ],
