@@ -106,7 +106,21 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "ds_list_create()",
-            "varName": "animals",
+            "varName": "herbivores",
+            "varType": 4
+        },
+        {
+            "id": "88ebc848-f28d-47b2-9754-084364a71006",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "ds_list_create()",
+            "varName": "carnivores",
             "varType": 4
         }
     ],
