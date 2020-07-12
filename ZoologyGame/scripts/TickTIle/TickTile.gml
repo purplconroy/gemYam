@@ -4,6 +4,8 @@
 ///@param r
 ///@param migraqueue
 
+AnimalSort(argument0.herbivores);
+AnimalSort(argument0.carnivores);
 var herbtick = ds_list_size(argument0.herbivores);
 var carntick = ds_list_size(argument0.carnivores);
 for (var i=0; i< carntick; i++){

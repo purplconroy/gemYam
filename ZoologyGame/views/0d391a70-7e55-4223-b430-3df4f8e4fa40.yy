@@ -11,7 +11,8 @@
         "7efc5d25-9770-4c6c-9d9a-5967244942cc",
         "fe952622-a241-4d36-9bb3-a05d92dff632",
         "0748da7c-bb91-4717-aa78-60991198f592",
-        "0f74a2ee-7c83-4f48-af43-37d439dd794a"
+        "0f74a2ee-7c83-4f48-af43-37d439dd794a",
+        "af664f76-06a8-4e47-8f4a-ab163064e284"
     ],
     "filterType": "GMScript",
     "folderName": "AnimalScripts",

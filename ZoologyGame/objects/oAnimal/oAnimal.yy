@@ -38,7 +38,7 @@
             "mvc": "1.0",
             "listItems": null,
             "multiselect": false,
-            "rangeEnabled": true,
+            "rangeEnabled": false,
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
