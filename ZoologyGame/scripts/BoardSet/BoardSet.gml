@@ -15,7 +15,7 @@ ItemY = argument1 + oBoard.rOffset;
 
 if (ItemX > ds_grid_width(oBoard.hexgrid) - 1)
 {
-	BoardAppendQ();
+	prBoardAppendQ();
 	ds_grid_set(oBoard.hexgrid, ItemX, ItemY,  argument2);
 	return 1;
 }
